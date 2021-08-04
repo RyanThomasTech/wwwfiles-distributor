@@ -1,0 +1,2 @@
+# wwwfiles-distributor
+Ideally, my personal website(s) should be lightweight and easy to update. Over the past few months i have used 3 different computers (not to mention virtual machines) to do my programming work from, so I'd like to be able to automate things to the point where I can update my sitefiles without ever having to actually log in and update the files manual. This sounds like a job for bash scripts and abusing the accessibility of GitHub.
